@@ -13,7 +13,7 @@ Fullstack Developer (backend-oriented) based in Switzerland 🇨🇭
 - Golang / Laravel
 - SQL (MySQL / PostgreSQL / MSSQL)
 - Docker
-- Nuxt / VueJS / React / Angular / Flutter
+- Nuxt / VueJS / Flutter
 
 
 ## 📌 Featured projects
