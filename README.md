@@ -16,7 +16,7 @@ Fullstack Developer (backend-oriented) based in Switzerland 🇨🇭
 - Nuxt / VueJS / Flutter
 
 
-## 📌 Featured projects
+## Featured projects
 - **go-mail-checker** → Go API to check MX records of a domain
 - **deals-api** → REST API with CRUD operations
 
